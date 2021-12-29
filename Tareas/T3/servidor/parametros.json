@@ -1,0 +1,6 @@
+{
+    "PORT": 67548,
+    "HOST": "Air-de-antonia",
+    "MIN_CARACTERES": 1,
+    "MAX_JUGADORES": 4
+}

@@ -1,0 +1,8 @@
+
+__pycache__/
+Enunciado (imprimible).pdf
+Enunciado.pdf
+.DS_Store
+cliente/sprites
+cliente/__pycache__
+servidor/__pycache__

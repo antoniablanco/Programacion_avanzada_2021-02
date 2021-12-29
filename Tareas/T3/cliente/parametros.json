@@ -1,0 +1,18 @@
+
+{
+    "RUTA_AVATAR_1": "Sprites,Avatares,Avatar-1.png",
+    "RUTA_AVATAR_2": "Sprites,Avatares,Avatar-2.png",
+    "RUTA_CALAVERA_BLANCA": "Sprites,Decoraciones,calavera_blanca.png",
+    "RUTA_CALAVERA_GRIS": "Sprites,Decoraciones,calavera_gris.png",
+    "RUTA_CALAVERA_NEGRA": "Sprites,Decoraciones,calavera_negra.png",
+    "RUTA_RELOJ": "Sprites,Decoraciones,reloj.png",
+    "RUTA_TARJETA": "Sprites,Decoraciones,tarjeta.png",
+    "RUTA_WONES": "Sprites,Decoraciones,wones.png",
+    "RUTA_CANICA_1": "Sprites,Juego,canicas-1.png",
+    "RUTA_CANICA_2": "Sprites,Juego,canicas-2.png",
+    "RUTA_LOGO_BLANCO": "Sprites,Logos,logo_blanco.png",
+    "RUTA_LOGO_FONDO_NEGRO": "Sprites,Logos,logo_fondo _negro.png",
+    "RUTA_LOGO_NEGRO": "Sprites,Logos,logo_negro.png",
+    "PORT": 67548,
+    "HOST": "Air-de-antonia"
+}

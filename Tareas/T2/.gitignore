@@ -1,0 +1,10 @@
+.DS_store
+
+__pycache__/
+
+*.pdf
+
+canciones
+
+sprites
+

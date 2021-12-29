@@ -1,0 +1,7 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+
+#Archivos de texto
+*.csv
+
+__pycache__/
